@@ -1,0 +1,222 @@
+.container{
+    width: 1600px;
+    height: 620px;
+    margin: auto;
+    position: absolute;
+    inset: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.card1{
+    width: 370px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 65px;
+}
+
+.card2{
+    width: 370px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 65px;
+    
+}
+
+.card3{
+    width: 370px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 65px;
+}
+
+.card4{
+    width: 370px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 65px;
+}
+
+.card-head1{
+    width: 264px;
+    height: 83px;
+    background-color: rgb(114, 69, 151);
+    display: flex;
+    margin-left: 58px;
+    margin-top: -39px;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Gill Sans';
+    letter-spacing: 9px;
+}
+
+.card-head2{
+    width: 264px;
+    height: 83px;
+    background-color: rgb(187, 61, 120);
+    display: flex;
+    margin-left: 58px;
+    margin-top: -39px;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Gill Sans';
+    letter-spacing: 6px;
+}
+
+.card-head3{
+    width: 264px;
+    height: 83px;
+    background-color: rgb(184, 68, 68);
+    display: flex;
+    margin-left: 58px;
+    margin-top: -39px;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Gill Sans';
+    letter-spacing: 9px;
+}
+
+.card-head4{
+    width: 264px;
+    height: 83px;
+    background-color: rgb(224, 172, 0);
+    display: flex;
+    margin-left: 58px;
+    margin-top: -39px;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Gill Sans';
+    letter-spacing: 9px;
+}
+
+body{
+    background-color: rgb(139, 139, 139);
+}
+
+.price1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    height: 80px;
+}
+
+.price2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    height: 80px;
+
+}
+
+.price3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    height: 80px;
+
+}
+
+.price4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    height: 80px;
+
+}
+p{
+    font-size: 28px;
+    text-align: center;
+    text-decoration: underline  solid black;
+    text-underline-offset: 25px;
+    line-height: 40px;
+    
+
+}
+.buy1{
+    width: 214px;
+    height: 83px;
+    background-color: rgb(114, 69, 151);
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+    margin-left: 80px;
+    margin-top: 80px;
+    display: flex;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    font-family: 'Gill Sans';
+    letter-spacing: 4px;
+}
+
+.buy2{
+    width: 214px;
+    height: 83px;
+    background-color: rgb(187, 61, 120);
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+    margin-left: 80px;
+    margin-top: 80px;
+    display: flex;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    font-family: 'Gill Sans';
+    letter-spacing: 4px;
+}
+
+.buy3{
+    width: 214px;
+    height: 83px;
+    background-color: rgb(184, 68, 68);
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+    margin-left: 80px;
+    margin-top: 80px;
+    display: flex;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    font-family: 'Gill Sans';
+    letter-spacing: 4px;
+}
+
+.buy4{
+    width: 214px;
+    height: 83px;
+    background-color: rgb(224, 172, 0);
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+    margin-left: 80px;
+    margin-top: 80px;
+    display: flex;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    font-family: 'Gill Sans';
+    letter-spacing: 4px;
+}
